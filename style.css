@@ -1227,3 +1227,7 @@ body.preloader-site {
 .navbar-burger {
   color: #fff !important;
 }
+.navbar-menu.is-active {
+    position: relative;
+    top: 240%;
+}
